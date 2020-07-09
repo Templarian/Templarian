@@ -2,4 +2,12 @@
 
 Probably working on icons or something related to icons. If you're ever in Chicago feel free to reach out for tea 🍵 / beer 🍺.
 
+#### Topics I Enjoy
+
+- ✒ Icons (obviously)
+- 🧩 Web Components
+- 📃 TypeScript
+- 📄 Documentation
+- 🤔 Unit Testing!
+
 Contact me on Twitter [@templarian](https://templarian.com). Unless it's about something I maintain, then maybe create an issue 😉.
