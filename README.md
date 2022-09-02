@@ -2,6 +2,8 @@
 
 Probably working on icons or something related to icons. If you're ever in Chicago feel free to reach out for tea 🍵 / beer 🍺.
 
+Co-run [Pictogrammers](https://pictogrammers.com) with some amazing designers and developers.
+
 #### Topics I Enjoy
 
 - ✒ Icons (obviously)
