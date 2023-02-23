@@ -12,4 +12,4 @@ Co-run [Pictogrammers](https://pictogrammers.com) with some amazing designers an
 - 📄 Documentation
 - 🤔 Unit Testing!
 
-Contact me on Twitter [@templarian](https://templarian.com). Unless it's about something I maintain, then maybe create an issue 😉.
+Contact me on Mastodon [@templarian](https://fosstodon.org/@templarian). Unless it's about something I maintain, then maybe create an issue 😉.
